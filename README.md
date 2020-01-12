@@ -24,4 +24,5 @@ This is also a perfect project to personally investigate these areas in Rust:
 * https://github.com/facebookresearch/faiss (uses [2017: Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734))
 * https://github.com/spotify/annoy
 * https://github.com/microsoft/SPTAG
-* https://github.com/milvus-io/milvus
+* maybe https://github.com/milvus-io/milvus
+* maybe https://github.com/granne/granne
